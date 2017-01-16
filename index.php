@@ -113,7 +113,7 @@ function is_ipv6($ip) {
 	</div> 
  
 	<div class="footer"><hr>
-		<center>Copyright © 2014- <?php echo date(Y);?> <a href="https://scser.net">SanChan Network</a> All Rights Reserved<br />
+		<center>Copyright © 2014- <?php echo date(Y);?> <a href="https://sanchan.asia">SanChan Network</a> All Rights Reserved<br />
 			<?php 
 				echo 'Page Execution Time:'.(microtime_float() - $time_start).' sec ';
 				if ($_SERVER['HTTP_ACCEPT_ENCODING'] == "gzip") {
